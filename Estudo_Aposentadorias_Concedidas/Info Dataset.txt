@@ -1,0 +1,19 @@
+
+http://dados.gov.br/dataset/aposentadorias-concedidas-por-anos-de-servico
+
+Aposentadorias concedidas por anos de serviço
+Benefícios concedidos por anos de serviço do beneficiário, grupos de espécie específicos, sexo do beneficiário, clientela e ano da Data de Despacho do Benefício (DDB). Não inclui pensões alimentícias, desdobramentos de pensões por morte nem benefícios de prestação única. Considera apenas espécies de 'aposentadorias por tempo de contribuição'.
+
+nformações Adicionais
+Campo	Valor
+Autor	INSS
+Mantenedor	DATAPREV
+Última Atualização	8 de Janeiro de 2018, 09:27 (UTC-02:00)
+Criado	8 de Janeiro de 2018, 09:27 (UTC-02:00)
+Frequência de atualização	Anual
+Cobertura geográfica	Brasil
+Documentação	http://www.previdencia.gov.br/estatisticas/
+Granularidade geográfica	Nacional
+Granularidade temporal	Anual
+VCGE	Previdência Social [http://vocab.e.gov.br/id/governo#previdencia-social]
+harvest_url	http://dadosabertos.dataprev.gov.br/dataset/fb4dca14-6d15-492a-a4a7-5bae824a073d
